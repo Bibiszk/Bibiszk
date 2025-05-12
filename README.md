@@ -1,10 +1,9 @@
 <!-- README.md estilizado com visual 3D + estatísticas GitHub + tecnologias -->
 
 <div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/laptop-coding.png" width="100"/>
-  <h1>Hello World, I'm Bianca (a.k.a. Bibiszk) 👩‍💻</h1>
+  <h1>I'm Bianca (a.k.a. Bibiszk) 👩‍💻</h1>
   <p><strong>Estudante de Gestão da Tecnologia da Informação (Anhembi Morumbi)</strong></p>
-  <p>Focada em backend, apaixonada por tecnologia e aprendizado contínuo.</p>
+  <p>Apaixonada por tecnologia e aprendizado contínuo.</p>
 </div>
 
 ---

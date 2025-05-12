@@ -1,7 +1,6 @@
 <!-- README 3D Style - Bianca Brito Magalhães da Silva -->
 
 <div align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/laptop-coding.png" width="100"/>
   <h1>Bianca Brito Magalhães da Silva</h1>
   <p><strong>Estudante de Gestão da Tecnologia da Informação (Anhembi Morumbi)</strong></p>
   <p>Focada em backend, apaixonada por tecnologia e aprendizado contínuo.</p>

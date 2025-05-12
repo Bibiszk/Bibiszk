@@ -1,7 +1,8 @@
-<!-- README 3D Style - Bianca Brito Magalhães da Silva -->
+<!-- README.md estilizado com visual 3D + estatísticas GitHub + tecnologias -->
 
 <div align="center">
-  <h1>Bianca Brito Magalhães da Silva</h1>
+  <img src="https://img.icons8.com/3d-fluency/94/laptop-coding.png" width="100"/>
+  <h1>Hello World, I'm Bianca (a.k.a. Bibiszk) 👩‍💻</h1>
   <p><strong>Estudante de Gestão da Tecnologia da Informação (Anhembi Morumbi)</strong></p>
   <p>Focada em backend, apaixonada por tecnologia e aprendizado contínuo.</p>
 </div>
@@ -35,7 +36,7 @@
   <div style="background: #1e1e2f; border-radius: 15px; padding: 20px; width: 300px; color: #fff; box-shadow: 4px 4px 10px rgba(0,0,0,0.4);">
     <h3>📂 Projetos</h3>
     <ul>
-      <li>🎵 <strong>SOM-MUSIC:</strong> clone do Spotify</li>
+      <li>🎵 SOM-MUSIC: Clone do Spotify</li>
       <li>❤️ Coração com Turtle e matemática</li>
       <li>📺 Página anos 90/2000 com design nostálgico</li>
     </ul>
@@ -46,7 +47,7 @@
     <ul>
       <li>Dev com Gemini – 2024</li>
       <li>Front-End (Spotify Clone) – 2025</li>
-      <li>Mobile (App Entrega) – 2025</li>
+      <li>Mobile (App de Entrega) – 2025</li>
       <li>C# com OO – 2024</li>
       <li>Git, GitHub, Lógica, Python</li>
     </ul>
@@ -65,7 +66,44 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bibiszk&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+### 🔍 Estatísticas GitHub
+
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bibiszk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibiszk&layout=compact&langs_count=6&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Minhas Tecnologias Favoritas
+
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/2x/vue-js.png" width="100" alt="Vue.js"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="100" alt="React Native"></td>
+    <td><img src="https://img.icons8.com/color/2x/html-5.png" width="100" alt="HTML5"></td>
+    <td><img src="https://img.icons8.com/color/2x/css3.png" width="100" alt="CSS3"></td>
+    <td><img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="100" alt="JavaScript"></td>
+    <td><img src="https://img.icons8.com/color/2x/bootstrap.png" width="100" alt="Bootstrap"></td>
+  </tr>
+</table>
+
+---
+
+### 📱 Redes e Contato
+
+<div> 
+  <a href="https://www.youtube.com/channel/UCbOyyAqpyiYiImgaoXAwd9A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.instagram.com/_leehxd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.twitch.tv/leehxd_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href = "mailto:biabrito471@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/leticiajm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
+
 

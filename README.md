@@ -34,22 +34,15 @@
   </div>
 
   <div style="background: #1e1e2f; border-radius: 15px; padding: 20px; width: 300px; color: #fff; box-shadow: 4px 4px 10px rgba(0,0,0,0.4);">
-    <h3>📂 Projetos</h3>
-    <ul>
-      <li>🎵 SOM-MUSIC: Clone do Spotify</li>
-      <li>❤️ Coração com Turtle e matemática</li>
-      <li>📺 Página anos 90/2000 com design nostálgico</li>
-    </ul>
-  </div>
-
+   
   <div style="background: #1e1e2f; border-radius: 15px; padding: 20px; width: 300px; color: #fff; box-shadow: 4px 4px 10px rgba(0,0,0,0.4);">
     <h3>📚 Cursos e Imersões</h3>
     <ul>
       <li>Dev com Gemini – 2024</li>
       <li>Front-End (Spotify Clone) – 2025</li>
       <li>Mobile (App de Entrega) – 2025</li>
-      <li>C# com OO – 2024</li>
-      <li>Git, GitHub, Lógica, Python</li>
+      <li>C# com Orientação a Objetos – 2024</li>
+      <li>Git, GitHub, Lógica de Programação, Python</li>
     </ul>
   </div>
 
@@ -85,14 +78,16 @@
 
 <table>
   <tr>
-    <td><img src="https://img.icons8.com/color/2x/vue-js.png" width="100" alt="Vue.js"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="100" alt="React Native"></td>
     <td><img src="https://img.icons8.com/color/2x/html-5.png" width="100" alt="HTML5"></td>
     <td><img src="https://img.icons8.com/color/2x/css3.png" width="100" alt="CSS3"></td>
     <td><img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="100" alt="JavaScript"></td>
-    <td><img src="https://img.icons8.com/color/2x/bootstrap.png" width="100" alt="Bootstrap"></td>
+    <td><img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="100" alt="Java"></td>
+    <td><img src="https://img.icons8.com/color/2x/c-sharp-logo.png" width="100" alt="C#"></td>
+    <td><img src="https://img.icons8.com/color/2x/python.png" width="100" alt="Python"></td>
   </tr>
 </table>
+
 
 ---
 

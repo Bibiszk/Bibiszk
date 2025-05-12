@@ -1,4 +1,6 @@
-👩‍💻 Bianca Brito Magalhães
+👩‍💻 Bianca Brito Magalhães da Silva
+
+
 Sou estudante de Gestão da Tecnologia da Informação na Universidade Anhembi Morumbi, apaixonada por tecnologia, com foco em desenvolvimento backend e aprendizado contínuo. Tenho experiência prática com projetos pessoais usando HTML, CSS, JavaScript, C# e Python, e estou sempre em busca de desafios que me permitam evoluir como profissional.
 
 🚀 Sobre mim

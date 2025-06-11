@@ -1,7 +1,6 @@
-<!-- README.md estilizado com visual 3D + estatísticas GitHub + tecnologias -->
 
 <div align="center">
-  <h1>I'm Bianca (a.k.a. Bibiszk) 👩‍💻</h1>
+  <h1>I'm Bianca  👩‍💻</h1>
   <p><strong>Estudante de Gestão da Tecnologia da Informação (Anhembi Morumbi)</strong></p>
   <p>Apaixonada por tecnologia e aprendizado contínuo.</p>
 </div>

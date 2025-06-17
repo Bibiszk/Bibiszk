@@ -50,7 +50,6 @@
     <ul>
       <li>Email: <strong>biabrito471@gmail.com</strong></li>
       <li>Telefone: (11) 94994-2391</li>
-      <li>GitHub: <a href="https://github.com/Bibiszk" style="color: #4FC3F7;">@Bibiszk</a></li>
     </ul>
   </div>
 

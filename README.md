@@ -58,7 +58,6 @@
 ---
 
 ### 🚀 Estatísticas 
-
 <table>
   <tr>
     <td>
@@ -69,7 +68,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 

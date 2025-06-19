@@ -58,10 +58,7 @@
 ---
 
 ### 🚀 Estatísticas 
-<table>
-🚀 Estatísticas
-<table> <tr> <td valign="top"> <!-- Total de commits, estrelas, issues, PRs, e repositórios --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bibiszk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" /> </td> <td valign="top"> <!-- Linguagens mais usadas no seu perfil --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibiszk&layout=compact&langs_count=7&theme=tokyonight" alt="Principais linguagens" /> </td> </tr> </table>
-
+<table> <tr> <td valign="top"> <!-- Estatísticas gerais do GitHub --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bibiszk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" /> </td> <td valign="top"> <!-- Principais linguagens usadas --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibiszk&layout=compact&langs_count=7&theme=tokyonight" alt="Principais linguagens" /> </td> </tr> </table>
 ---
 
 ### 🌐 Minhas Tecnologias Favoritas
